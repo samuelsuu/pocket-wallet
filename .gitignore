@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+
+# Builds and caches
+dist/
+web-build/
+.next/
+.expo/
+*.tsbuildinfo
+
+# DevQuest project metadata
+.devquest/
+
+# Secrets: never commit these
+.env
+.env.local
+.env.*.local
+
+# System files
+.DS_Store
+Thumbs.db

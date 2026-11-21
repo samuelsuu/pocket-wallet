@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Pocket wallet",
+    "slug": "pocket-wallet",
+    "version": "1.0.0",
+    "scheme": "pocket-wallet",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "plugins": ["expo-router"]
+  }
+}
